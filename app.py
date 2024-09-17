@@ -258,7 +258,7 @@ if uploaded_file1 and uploaded_file2:
 
                 # Mensaje final
                 st.write("""
-                Ahora puedes descargar el archivo usando el ícono de descarga. Recuerda que puedes revisar tus datos en Excel para asegurarte de que todo esté correcto. ¡Espero que haya sido de ayuda!
+                Ahora puedes descargar el archivo usando el ícono de descarga. Recuerda que puedes ocultar columnas en excel para comparar que todo esté correcto. ¡Espero que haya sido de ayuda!
                 """)
 
 else:
